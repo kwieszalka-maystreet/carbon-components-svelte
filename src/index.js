@@ -82,6 +82,7 @@ export {
 export { NumberInput, NumberInputSkeleton } from "./NumberInput";
 export { OrderedList } from "./OrderedList";
 export { OverflowMenu, OverflowMenuItem } from "./OverflowMenu";
+export { PaginatedDataTable } from "./PaginatedDataTable";
 export { Pagination, PaginationSkeleton } from "./Pagination";
 export { PaginationNav } from "./PaginationNav";
 export { Popover } from "./Popover";
