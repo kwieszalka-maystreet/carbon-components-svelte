@@ -63,8 +63,8 @@
 </script>
 
 <DataTable
-  {...dataTableProps}
   sortable
+  {...dataTableProps}
   headers="{headers}"
   rows="{currentRows}"
   on:click:header="{({ detail }) => {
